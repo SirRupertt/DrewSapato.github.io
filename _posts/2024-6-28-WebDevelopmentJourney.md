@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Teen Coder to Business Builder: My Journey to Flourish Web Development
+title: From Teen Coder to Business Builder | My Journey to Flourish Web Development
 ---
 
 At just 14, I embarked on a coding adventure, inspired by family, teachers, and friends who urged me to keep creating and improving. I explored various fields: Software Development, Machine Learning and AI, even small indie game development. As this blog has chronicled this journey.
